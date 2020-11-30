@@ -7,7 +7,9 @@
   Sketch uses 3244 bytes (79%) of program
   storage space (Maximum is 4096 bytes).
   Global variables use 13 bytes
-  (5% of dynamic memory).
+  (5% of dynamic memory). This code was 
+  inspired by work done by Steve Yoshida. 
+  I expanded upon his spire test code.
   Spire orientation of first LED (bottom)
   PIN_A is cathode, PIN_B is red LED,
   PIN_C is green LED, PIN_D is blue LED
