@@ -13,8 +13,4 @@
   PIN_C is green LED, PIN_D is blue LED
   @author Mike Tonge (ZoolanderMicro)
   @date 11/28/2020
-//------MAP--------Physical------IDE-----PORT
-#define PIN_A 4 // T45 pin 3   (4/A2)    PB4
-#define PIN_B 0 // T45 pin 5    (0)      PB0
-#define PIN_C 1 // T45 pin 6    (1)      PB1
-#define PIN_D 3 // T45 pin 2   (3/A3)    PB3
+
