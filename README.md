@@ -8,7 +8,7 @@
   storage space (Maximum is 4096 bytes).
   Global variables use 13 bytes
   (5% of dynamic memory). This code was 
-  inspired by work done by Steve Yoshida. 
+  inspired by work done by Steve Yoshida (stevesprojectpages.com/) 
   I expanded upon his spire test code.
   Spire orientation of first LED (bottom)
   PIN_A is cathode, PIN_B is red LED,
