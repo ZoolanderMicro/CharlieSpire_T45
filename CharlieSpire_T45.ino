@@ -30,7 +30,7 @@ void setup() {
   pinMode(PIN_A, INPUT);
   pinMode(PIN_B, INPUT);
   pinMode(PIN_C, INPUT);
-  pinMode(PIN_C, INPUT);
+  pinMode(PIN_D, INPUT);
 }
 void loop() {
   // PATTERN 1: RGB TEST
